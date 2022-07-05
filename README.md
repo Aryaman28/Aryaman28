@@ -7,6 +7,8 @@ I'm currently an undergraduate with areas of interests ranging from **Data Scien
 
 Looking to develop more in the fields of Machine Learning and Artifical Intelligence. I also possess co-curricular interest in Writing.
 
+### 📲 My Digital Portfolios
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/aryaman2808/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,7 +17,7 @@ Looking to develop more in the fields of Machine Learning and Artifical Intellig
   </a>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
